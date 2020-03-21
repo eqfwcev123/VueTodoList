@@ -8,6 +8,8 @@
 </template>
 
 <script>
+// App.vue 는 Main.js에 등록되어 있다.
+
 import TodoHeader from './components/TodoHeader.vue'
 import TodoList from './components/TodoList.vue'
 import TodoInput from './components/TodoInput.vue'
